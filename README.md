@@ -22,4 +22,13 @@ This project aims to deliver a fast, modern, and responsive web experience that 
    git clone https://github.com/rohitmendus/ietoncampusCET-website-revamp.git
    cd ietoncampusCET-website-revamp
    ```
-   
+
+2. **Set up node modules**
+   ```bash
+   npm install
+   ```
+
+4. **For Development**
+    ```bash
+    npm run dev
+   ```
