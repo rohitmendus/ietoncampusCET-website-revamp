@@ -1,16 +1,25 @@
-# React + Vite
+# IET CET Website Revamp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A complete revamp of the official website for **The Institution of Engineering and Technology (IET), College of Engineering Trivandrum** — built from scratch using **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+This project aims to deliver a fast, modern, and responsive web experience that reflects the energy and professionalism of the IET community on campus.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ⚛️ **React (Vite)** — Modern frontend framework for a fast, modular UI  
+- 🎨 **Tailwind CSS** — Utility-first styling for rapid design and responsive layouts  
+- 🧭 **React Router** — For handling multi-page navigation  
+- 🧠 **Framer Motion** — Smooth animations and transitions  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Setup Instructions
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/rohitmendus/ietoncampusCET-website-revamp.git
+   cd ietoncampusCET-website-revamp
+   ```
+   
